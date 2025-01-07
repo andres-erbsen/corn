@@ -12,6 +12,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 (* The diagonal bijection between nat^2 and nat, as well as convergence
    results for double series. *)
 
+Require Import Arith.
 Require Import QArith.
 Require Import PeanoNat.
 Require Import ArithRing.
